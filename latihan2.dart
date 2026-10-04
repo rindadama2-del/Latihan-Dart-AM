@@ -177,6 +177,3 @@ String checkGrade(double nilai) {
 // if (8000(isi cosnt) = totalBayar) {
 //     print(case 1 berhasil)
 // }
-
-
-
